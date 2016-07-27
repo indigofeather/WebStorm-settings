@@ -1,11 +1,4 @@
 <scheme name="Material Theme - Default copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-07-27T11:02:01</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-07-27T11:02:32</property>
-    <property name="originalScheme">Material Theme - Default</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -13,7 +6,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="WenQuanYi Micro Hei Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
